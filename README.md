@@ -1,2 +1,1 @@
-# Stat604.github.io
-HW1 Bonus Question
+# Stat604 HW1 Bonus Question
